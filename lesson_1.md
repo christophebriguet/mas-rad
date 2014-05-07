@@ -16,12 +16,12 @@
 - https://codeclimate.com
 - https://travis-ci.com
 - http://guides.rubyonrails.org
-- http://railsforzombies.org (to complete 3/5)
+- http://railsforzombies.org (to complete level 3/5)
 
 # Exercices
 
 - Complete http://tryruby.org
-- Create a https://codeclimate.com account and complete http://railsforzombies.org (Level 3/5)
+- Create a https://codeclimate.com account and complete http://railsforzombies.org (level 3/5)
 
 # Media
 
