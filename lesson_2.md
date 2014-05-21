@@ -1,12 +1,13 @@
 # Lesson #2 (2014-05-13)
 
-## Steps / Commands
 
-### Finish RailsForZombies
+## Finish RailsForZombies
 
 - http://railsforzombies.org (to complete level 4/5 & 5/5)
 
-### Goal: http://todomvc-rails.herokuapp.com
+## Goal: http://todomvc-rails.herokuapp.com
+
+### Rails new
 
 - Create new Rails box on https://www.nitrous.io
 - Install postgresql: http://help.nitrous.io/postgresql/
